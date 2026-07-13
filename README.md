@@ -36,8 +36,6 @@
 
 ### 🛒 Decathlon
 
-**Customer Insights**
-
 *YOLO-powered real-time customer behavior analytics.*
 
 <br>
