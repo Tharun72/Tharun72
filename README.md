@@ -80,14 +80,6 @@ Goal:
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Tharun72&theme=tokyonight&row=2&column=4"/>
-</p>
-
----
-
 # 💻 Competitive Programming
 
 - 🟡 **750+ LeetCode Problems Solved**
@@ -114,7 +106,7 @@ Goal:
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/tharun-raaj-d-a- ">
+<a href="https://linkedin.com/in/www.linkedin.com/in/tharun-raaj-d-a-">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
@@ -127,8 +119,6 @@ Goal:
 ---
 
 # 🐍 Contribution Snake
-
-> Enable this later using GitHub Actions.
 
 ```yaml
 uses: Platane/snk@v3
