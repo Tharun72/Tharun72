@@ -59,11 +59,18 @@
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=react" height="42"/>
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react" height="55"/>
+
+</p>
+
+<p align="center">
 
 <img src="https://img.shields.io/badge/ICP-29ABE2?style=flat-square"/>
-
 <img src="https://img.shields.io/badge/Motoko-7F3FBF?style=flat-square"/>
+
+</p>
 
 </td>
 
@@ -75,11 +82,18 @@
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=git" height="42"/>
+<p align="center">
 
-<img src="https://img.shields.io/badge/Blockchain-121D33?style=flat-square"/>
+<img src="https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge"/>
+
+</p>
+
+<p align="center">
 
 <img src="https://img.shields.io/badge/ZKP-FF9800?style=flat-square"/>
+<img src="https://img.shields.io/badge/Cryptography-007ACC?style=flat-square"/>
+
+</p>
 
 </td>
 
