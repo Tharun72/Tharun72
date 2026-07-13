@@ -32,9 +32,9 @@
 <table>
 <tr>
 
-<td width="25%" valign="top" align="center">
+<td width="25%" valign="top" align="left">
 
-## 🛒 Decathlon
+### 🛒 Decathlon
 
 **Customer Insights**
 
@@ -42,80 +42,47 @@
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=python" height="42"/>
-<img src="https://skillicons.dev/icons?i=opencv" height="42"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/YOLOv8-red?style=flat-square"/>
+`Python` • `OpenCV` • `YOLOv8`
 
 </td>
 
-<td width="25%" valign="top" align="center">
+<td width="25%" valign="top" align="left">
 
-## 🛡️ AI Sentinel
+### 🛡️ AI Sentinel
 
 *Decentralized AI blockchain code auditor.*
 
 <br>
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=react" height="55"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/ICP-29ABE2?style=flat-square"/>
-<img src="https://img.shields.io/badge/Motoko-7F3FBF?style=flat-square"/>
-
-</p>
+`React` • `ICP` • `Motoko`
 
 </td>
 
-<td width="25%" valign="top" align="center">
+<td width="25%" valign="top" align="left">
 
-## 🔐 ZKP Blockchain
+### 🔐 ZKP Blockchain
 
 *Privacy-preserving blockchain authentication.*
 
 <br>
 
-<p align="center">
-
-<img src="https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/ZKP-FF9800?style=flat-square"/>
-<img src="https://img.shields.io/badge/Cryptography-007ACC?style=flat-square"/>
-
-</p>
+`Blockchain` • `Cryptography` • `ZKP`
 
 </td>
 
-<td width="25%" valign="top" align="center">
+<td width="25%" valign="top" align="left">
 
-## 🔊 Noise Monitor
+### 🔊 Noise Monitor
 
 *IoT-based real-time environmental monitoring.*
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=python" height="42"/>
-<img src="https://skillicons.dev/icons?i=firebase" height="42"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/ESP32-009688?style=flat-square"/>
+`Python` • `Firebase` • `ESP32`
 
 </td>
 
 </tr>
-
 </table>
 
 ---
