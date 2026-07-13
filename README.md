@@ -2,7 +2,7 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm **Tharun Raaj D A**
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+%26+Machine+Learning+Enthusiast;725%2B+LeetCode+Problems;Full+Stack+Developer;Linux+Power+User;Hackathon+Builder;Always+Learning+Something+New+%F0%9F%9A%80"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+%26+Machine+Learning+Enthusiast;750%2B+LeetCode+Problems;Full+Stack+Developer;Linux+Power+User;Hackathon+Builder;Always+Learning+Something+New+%F0%9F%9A%80"/>
 </p>
 
 <p align="center">
@@ -41,11 +41,11 @@ Goal:
 
 | Project | Description |
 |---------|-------------|
+| 🛒 Decathlon Customer Insights | YOLO-powered real-time customer behavior analytics |
+| 🔐 Zero-Knowledge Blockchain | Privacy-preserving blockchain authentication system |
+| 🛡️ AI Sentinel | Decentralized AI blockchain code auditor |
+| 🔊 Noise Monitoring System | IoT real-time environmental noise monitoring |
 | 🌸 TempleCycle | AI-powered temple flower waste recycling |
-| 🛡 AI Sentinel | Decentralized intelligent code auditor |
-| 🌺 YOLO Flower Detection | Real-time flower classification model |
-| 🌐 Full Stack Apps | Modern scalable web applications |
-| 🐧 Linux Dotfiles | Productivity-focused Linux setup |
 
 ---
 
@@ -106,7 +106,7 @@ Goal:
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://linkedin.com/in/www.linkedin.com/in/tharun-raaj-d-a-">
+<a href="https://linkedin.com/in/tharun-raaj-d-a-">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
@@ -118,11 +118,21 @@ Goal:
 
 ---
 
-# 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
-```yaml
-uses: Platane/snk@v3
-```
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Tharun72/Tharun72/output/github-contribution-grid-snake-dark.svg" />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Tharun72/Tharun72/output/github-contribution-grid-snake.svg" />
+    <img
+      alt="GitHub contribution snake"
+      src="https://raw.githubusercontent.com/Tharun72/Tharun72/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
 
 ---
 
