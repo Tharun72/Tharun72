@@ -1,9 +1,9 @@
 
 <div align="center">
 
-# Tharun Raaj D A
+# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=42&pause=100000&color=00F7FF&center=true&vCenter=true&width=700&lines=THARUN+RAAJ+D+A"/>
 
-### AI Engineer • Competitive Programmer • Full Stack Developer
+### 🤖 AI Engineer • 💻 Competitive Programmer • 🌐 Full Stack Developer
 
 *"Turning ideas into intelligent products with code."*
 
@@ -27,45 +27,92 @@
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
+<table>
+<tr>
 
-### 🛒 Decathlon Customer Insights
-> YOLO-powered real-time customer behavior analytics
+<td width="25%" valign="top" align="center">
 
-YOLOv8 • Python • OpenCV
+## 🛒 Decathlon
+
+**Customer Insights**
+
+*YOLO-powered real-time customer behavior analytics.*
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=python" height="42"/>
+<img src="https://skillicons.dev/icons?i=opencv" height="42"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/YOLOv8-red?style=flat-square"/>
+
+</td>
+
+<td width="25%" valign="top" align="center">
+
+## 🛡️ AI Sentinel
+
+*Decentralized AI blockchain code auditor.*
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=react" height="42"/>
+
+<img src="https://img.shields.io/badge/ICP-29ABE2?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Motoko-7F3FBF?style=flat-square"/>
+
+</td>
+
+<td width="25%" valign="top" align="center">
+
+## 🔐 ZKP Blockchain
+
+*Privacy-preserving blockchain authentication.*
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=git" height="42"/>
+
+<img src="https://img.shields.io/badge/Blockchain-121D33?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/ZKP-FF9800?style=flat-square"/>
+
+</td>
+
+<td width="25%" valign="top" align="center">
+
+## 🔊 Noise Monitor
+
+*IoT-based real-time environmental monitoring.*
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=python" height="42"/>
+<img src="https://skillicons.dev/icons?i=firebase" height="42"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/ESP32-009688?style=flat-square"/>
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
-### 🛡 AI Sentinel
-> Decentralized AI blockchain code auditor
+## 🛠️ Tech Stack
 
-React • ICP • Motoko
+<table>
 
----
+<tr>
 
-### 🔐 Zero-Knowledge Blockchain
-> Privacy-preserving blockchain authentication system
-
-Blockchain • Cryptography • ZKP
-
----
-
-### 🔊 Noise Monitoring System
-> IoT-based real-time environmental noise monitoring
-
-ESP32 • Flask • Firebase
-
----
-
-### 🌸 TempleCycle
-> AI-powered temple floral waste recycling
-
-Python • YOLOv8 • OpenCV • Firebase
-
----
-
-# 🛠 Tech Stack
+<td align="center" width="33%">
 
 ### 💻 Languages
 
@@ -73,11 +120,19 @@ Python • YOLOv8 • OpenCV • Firebase
 <img src="https://skillicons.dev/icons?i=cpp,c,python,java,js,ts"/>
 </p>
 
+</td>
+
+<td align="center" width="33%">
+
 ### 🎨 Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css"/>
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind"/>
 </p>
+
+</td>
+
+<td align="center" width="33%">
 
 ### ⚙️ Backend
 
@@ -85,34 +140,50 @@ Python • YOLOv8 • OpenCV • Firebase
 <img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi"/>
 </p>
 
-### 🗄️ Databases
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+### 🗄️ Database
 
 <p>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,supabase"/>
 </p>
 
-### 🤖 AI / Machine Learning
+</td>
+
+<td align="center">
+
+### 🤖 AI / ML
 
 <p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv"/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn"/>
 </p>
 
 <p>
-<img src="https://img.shields.io/badge/YOLOv8-111827?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
+<img src="https://img.shields.io/badge/YOLOv8-EA4335?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
-### ☁️ Cloud & DevOps
+</td>
+
+<td align="center">
+
+### ☁️ DevOps & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux"/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,aws,vscode,postman"/>
 </p>
 
-### 🛠 Tools
+</td>
 
-<p>
-<img src="https://skillicons.dev/icons?i=vscode,postman"/>
-</p>
+</tr>
+
+</table>
+
 ---
 
 # 📊 GitHub Analytics
