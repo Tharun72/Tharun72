@@ -6,9 +6,9 @@
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge"/>
-<img src="https://img.shields.io/github/stars/YOUR_USERNAME?affiliations=OWNER&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Tharun72&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/Tharun72?style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/Tharun72?affiliations=OWNER&style=for-the-badge"/>
 </p>
 
 ---
@@ -17,11 +17,9 @@
 
 ```yaml
 Name: Tharun Raaj D A
-
 Education:
   B.E Computer Science Engineering
   Chennai Institute of Technology
-
 Interests:
   - Artificial Intelligence
   - Machine Learning
@@ -29,12 +27,10 @@ Interests:
   - Full Stack Development
   - Linux
   - Cloud Computing
-
 Currently Building:
   - 🌸 TempleCycle
   - 🛡 AI Sentinel
   - 🤖 YOLO Projects
-
 Goal:
   Become a World-Class AI Engineer
 ```
@@ -66,12 +62,12 @@ Goal:
 # 📊 GitHub Analytics
 
 <p align="center">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&rank_icon=github"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Tharun72&show_icons=true&theme=tokyonight&rank_icon=github"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tharun72&layout=compact&theme=tokyonight"/>
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=Tharun72&theme=tokyonight"/>
 </p>
 
 ---
@@ -79,7 +75,7 @@ Goal:
 # 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tharun72&theme=tokyo-night"/>
 </p>
 
 ---
@@ -87,14 +83,14 @@ Goal:
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Tharun72&theme=tokyonight&row=2&column=4"/>
 </p>
 
 ---
 
 # 💻 Competitive Programming
 
-- 🟡 **725+ LeetCode Problems Solved**
+- 🟡 **750+ LeetCode Problems Solved**
 - ⚡ Strong in DSA & Algorithms
 - 🧠 Love solving challenging problems
 
@@ -114,15 +110,15 @@ Goal:
 
 <p align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/Tharun72">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/tharun-raaj-d-a- ">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:datharunt@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
