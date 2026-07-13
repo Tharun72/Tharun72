@@ -1,17 +1,21 @@
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm **Tharun Raaj D A**
+<div align="center">
 
+# Tharun Raaj D A
+
+### AI Engineer • Competitive Programmer • Full Stack Developer
+
+*"Turning ideas into intelligent products with code."*
+
+</div>
+
+---
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+%26+Machine+Learning+Enthusiast;750%2B+LeetCode+Problems;Full+Stack+Developer;Linux+Power+User;Hackathon+Builder;Always+Learning+Something+New+%F0%9F%9A%80"/>
 </p>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Tharun72&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/Tharun72?style=for-the-badge"/>
-<img src="https://img.shields.io/github/stars/Tharun72?affiliations=OWNER&style=for-the-badge"/>
-</p>
-
 ---
+
 ## 👨‍💻 About Me
 
 🎓 3rd Year Computer Science Engineering Student @ Chennai Institute of Technology
@@ -25,24 +29,90 @@
 
 # 🚀 Featured Projects
 
-| Project | Description |
-|---------|-------------|
-| 🛒 Decathlon Customer Insights | YOLO-powered real-time customer behavior analytics |
-| 🔐 Zero-Knowledge Blockchain | Privacy-preserving blockchain authentication system |
-| 🛡️ AI Sentinel | Decentralized AI blockchain code auditor |
-| 🔊 Noise Monitoring System | IoT real-time environmental noise monitoring |
-| 🌸 TempleCycle | AI-powered temple flower waste recycling |
+
+### 🛒 Decathlon Customer Insights
+> YOLO-powered real-time customer behavior analytics
+
+YOLOv8 • Python • OpenCV
+
+---
+
+### 🛡 AI Sentinel
+> Decentralized AI blockchain code auditor
+
+React • ICP • Motoko
+
+---
+
+### 🔐 Zero-Knowledge Blockchain
+> Privacy-preserving blockchain authentication system
+
+Blockchain • Cryptography • ZKP
+
+---
+
+### 🔊 Noise Monitoring System
+> IoT-based real-time environmental noise monitoring
+
+ESP32 • Flask • Firebase
+
+---
+
+### 🌸 TempleCycle
+> AI-powered temple floral waste recycling
+
+Python • YOLOv8 • OpenCV • Firebase
 
 ---
 
 # 🛠 Tech Stack
 
-<p align="center">
+### 💻 Languages
 
-<img src="https://skillicons.dev/icons?i=cpp,c,python,java,js,ts,html,css,react,nextjs,nodejs,express,django,fastapi,mongodb,mysql,firebase,supabase,docker,git,github,linux,aws,opencv,tensorflow,pytorch,vscode,postman&perline=8"/>
-
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,c,python,java,js,ts"/>
 </p>
 
+### 🎨 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css"/>
+</p>
+
+### ⚙️ Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi"/>
+</p>
+
+### 🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,supabase"/>
+</p>
+
+### 🤖 AI / Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv"/>
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/YOLOv8-111827?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
+</p>
+
+### ☁️ Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux"/>
+</p>
+
+### 🛠 Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,postman"/>
+</p>
 ---
 
 # 📊 GitHub Analytics
