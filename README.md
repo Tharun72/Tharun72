@@ -12,28 +12,14 @@
 </p>
 
 ---
+## 👨‍💻 About Me
 
-# 💫 About Me
-
-```yaml
-Name: Tharun Raaj D A
-Education:
-  B.E Computer Science Engineering
-  Chennai Institute of Technology
-Interests:
-  - Artificial Intelligence
-  - Machine Learning
-  - Competitive Programming
-  - Full Stack Development
-  - Linux
-  - Cloud Computing
-Currently Building:
-  - 🌸 TempleCycle
-  - 🛡 AI Sentinel
-  - 🤖 YOLO Projects
-Goal:
-  Become a World-Class AI Engineer
-```
+🎓 3rd Year Computer Science Engineering Student @ Chennai Institute of Technology
+💯 Solved 725+ LeetCode Problems
+🤖 Passionate about Artificial Intelligence & Machine Learning
+🌐 Full Stack Developer specializing in scalable web applications
+🐧 Linux enthusiast who enjoys building and automating workflows
+🚀 Building impactful AI products for real-world problems
 
 ---
 
